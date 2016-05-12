@@ -4,7 +4,7 @@ Days Since Board
 ## Add a new board
 
 1. Save an icon as a 325px × 325px PNG in `./public/images/`.
-2. Create a new JSON file in `./public/scripts/boards` with the following contents.
+2. Create a new JSON file in `./public/scripts/boards`. Here is an example `xcode.json`.
 	```json
 	{
 	    "eventName": "xcode",
