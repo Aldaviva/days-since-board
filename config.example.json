@@ -1,0 +1,10 @@
+{
+	"server": {
+		"port": 8086
+	},
+	"db": {
+		"host": "localhost",
+		"port": 27017,
+		"name": "days-since-board"
+	}
+}

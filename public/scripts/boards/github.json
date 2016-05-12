@@ -1,0 +1,6 @@
+{
+    "eventName": "github",
+    "captionSingular": "day since a GitHub outage",
+    "captionPlural": "days since a GitHub outage",
+    "unit": "days"
+}

@@ -1,0 +1,67 @@
+body {
+	background: white;
+	color: black;
+	font-family: "Myriad";
+}
+
+.container {
+	margin-top: 109px;
+	text-align: center;
+
+	.icon {
+		max-height: 325px;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.counter {
+		color: @blue;
+		font-size: 447px;
+		font-weight: bold;
+		margin-top: 35px;
+	}
+
+	.caption {
+		color: @gray;
+		font-size: 173px;
+		display: block;
+		line-height: 186px;
+		margin: 0 174px;
+
+		.units {
+			display: block;
+		}
+	}
+}
+
+.interactions {
+	position: fixed;
+	bottom: 0;
+	right: 28px;
+	left: 40px;
+	height: 80px;
+	font-size: 24px;
+	line-height: 55px;
+
+	> div {
+		opacity: 0.25;
+	}
+
+	.reset {
+		background: url('../images/powermate_buttonpress.png') no-repeat;
+		text-indent: 61px;
+		position: absolute;
+		right: 0;
+		cursor: pointer;
+
+		&:hover {
+			opacity: 0.5;
+		}
+	}
+
+	.achievement {
+		font-size: 19px;
+		position: absolute;
+		left: 0;
+	}
+}

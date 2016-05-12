@@ -1,0 +1,28 @@
+var ACHIEVEMENTS = [
+	 { name: "contra speedrun",            hours:    0.168 },
+	 { name: "transcontinental blackbird", hours:    1.132 },
+	 { name: "energetic",                  hours:    5.000 },
+	 { name: "business day",               hours:    8.000 },
+	 { name: "NSRangeException",           hours:   10.000 },
+	 { name: "daily restart",              hours:   24.000 },
+	 { name: "cannonball run",             hours:   28.842 },
+	 { name: "a full deck",                hours:   52.000 },
+	 { name: "around the world",           hours:   67.017 }, //http://en.wikipedia.org/wiki/Virgin_Atlantic_GlobalFlyer
+	 { name: "long weekend",               hours:   72.000 },
+	 { name: "Oh the humanity!",           hours:   77.133 },
+	 { name: "titanic voyage",             hours:   87.800 },
+	 { name: "to the moon",                hours:  102.750 },
+	 { name: "eww",                        hours:  144.000 },
+	 { name: "24/7",                       hours:  168.000 },
+	 { name: "megasecond",                 hours:  277.778 },
+	 { name: "blast off",                  hours:  321.000 },
+	 { name: "fortnight",                  hours:  336.000 },
+	 { name: "new lap record",             hours:  340.000 },
+	 { name: "full circle",                hours:  360.000 },
+	 { name: "Xcode not found",            hours:  404.000 },
+	 { name: "lunar cycle",                hours:  708.734 },
+	 { name: "odometer rollover",          hours: 1000.000 },
+	 { name: "updates available",          hours: 2064.000 },
+	 { name: "revolution of mercury",      hours: 2111.111 },
+	 { name: "Napoleon's Hundred Days",    hours: 2280.000 }
+];

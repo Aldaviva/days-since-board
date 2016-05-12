@@ -1,0 +1,6 @@
+{
+    "eventName": "hipchat",
+    "captionSingular": "day since a HipChat outage",
+    "captionPlural": "days since a HipChat outage",
+    "unit": "days"
+}

@@ -1,0 +1,6 @@
+{
+    "eventName": "logupload",
+    "captionSingular": "day since Ben thought about log uploads",
+    "captionPlural": "days since Ben thought about log uploads",
+    "unit": "days"
+}

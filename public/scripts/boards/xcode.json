@@ -1,0 +1,6 @@
+{
+    "eventName": "xcode",
+    "captionSingular": "hour since Xcode crashed",
+    "captionPlural": "hours since Xcode crashed",
+    "unit": "hours"
+}

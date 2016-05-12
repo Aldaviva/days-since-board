@@ -1,0 +1,6 @@
+{
+    "eventName": "rabbitmq",
+    "captionSingular": "day since a RabbitMQ failure",
+    "captionPlural": "days since a RabbitMQ failure",
+    "unit": "days"
+}

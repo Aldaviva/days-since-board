@@ -1,0 +1,6 @@
+{
+    "eventName": "prod",
+    "captionSingular": "day since a prod outage",
+    "captionPlural": "days since a prod outage",
+    "unit": "days"
+}

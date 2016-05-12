@@ -1,0 +1,6 @@
+{
+    "eventName": "carfire",
+    "captionSingular": "day since a car fire",
+    "captionPlural": "days since a car fire",
+    "unit": "days"
+}

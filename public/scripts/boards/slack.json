@@ -1,0 +1,6 @@
+{
+    "eventName": "slack",
+    "captionSingular": "day since a Slack outage",
+    "captionPlural": "days since a Slack outage",
+    "unit": "days"
+}
